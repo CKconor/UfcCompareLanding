@@ -1,0 +1,50 @@
+#content {
+    text-align: center;
+    padding-top: 35%;
+}
+
+body {
+    background: url(https://wallpapershome.com/images/wallpapers/boxing-gloves-3840x2160-red-boxing-11209.jpg);
+    background-size: cover;
+    color: rgb(218, 218, 218);
+    background-position: center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 4em;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #000000;
+    
+}
+
+h4 {
+    font-weight: 600;
+    text-shadow: 2px 2px 5px #000000;
+}
+
+hr {
+    width: 1000px;
+    border-top: solid 2px rgb(224, 224, 224);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2); 
+     
+}
+
+.header {
+    background: rgba(0, 0, 0, .7);
+    padding: 20px;
+}
+
+.btn-success {
+    text-shadow: 2px 2px 5px #000000;
+}
+
+.fas {
+    padding-left: 10px;
+}
+
+.navbar-brand {
+    font-weight: 600;
+}
